@@ -3,4 +3,5 @@
 
 ## Obsah
 * Vytvořte první aplikaci dle tutoriálu https://doc.nette.org/cs/quickstart
+* Rozšiřte aplikaci o formulář pro zakládání příspěvků.
 * Hotovou aplikaci včetně kompletní databáze (struktura vč. dat) nahrajte do repozitáře.
